@@ -1,0 +1,22 @@
+{
+    "name": "light-na2co3",
+    "displayName": "Light (na2co3)",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "na2co3",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light",
+                "uiTheme": "vs",
+                "path": "./themes/Light-color-theme.json"
+            }
+        ]
+    }
+}
