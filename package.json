@@ -1,19 +1,20 @@
 {
-    "name": "light-na2co3",
-    "displayName": "Light (na2co3)",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "na2co3",
-    "engines": {
-        "vscode": "^1.19.0"
-    },
+    "name": "na2co3-light-theme",
+    "displayName": "na2co3 Light Theme",
+    "description": "Light color theme inspired by Chrome DevTools",
     "categories": [
         "Themes"
     ],
+    "version": "0.0.2",
+    "publisher": "na2co3",
+    "engines": {
+        "vscode": "*"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Light",
+                "id": "na2co3 Light",
+                "label": "na2co3 Light",
                 "uiTheme": "vs",
                 "path": "./themes/Light-color-theme.json"
             }
