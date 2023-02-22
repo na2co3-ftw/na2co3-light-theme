@@ -1,11 +1,11 @@
 {
     "name": "na2co3-light-theme",
     "displayName": "na2co3 Light Theme",
-    "description": "Light color theme inspired by Chrome DevTools",
+    "description": "Light color theme inspired by Chrome DevTools and others",
     "categories": [
         "Themes"
     ],
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "na2co3",
     "engines": {
         "vscode": "*"
@@ -19,5 +19,10 @@
                 "path": "./themes/Light-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/na2co3-ftw/na2co3-light-theme"
+    },
+    "icon": "icon.png"
 }
