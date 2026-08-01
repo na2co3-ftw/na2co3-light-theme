@@ -503,10 +503,12 @@
         "tab.activeBorder": "#ffffff",
         "tab.unfocusedActiveBorder": "#ffffff",
         "tab.inactiveBackground": "#e4e4e4",
+        "tab.selectedBackground": "#e4e8f4",
         "tab.activeForeground": "#222222",
         "tab.inactiveForeground": "#222222",
         "tab.unfocusedActiveForeground": "#888888",
         "tab.unfocusedInactiveForeground": "#888888",
+        "tab.unfocusedActiveBorderTop": "#00000000",
         "editorWidget.border": "#f4f4f4", // disable Bottom border for breadcrumbs
         "editorWidget.resizeBorder": "#bbbbbb",
         "editorSuggestWidget.border": "#cccccc",
@@ -537,5 +539,6 @@
         "gitDecoration.stageDeletedResourceForeground": "#c00000",
         "gitDecoration.untrackedResourceForeground": "#208000",
         "gitDecoration.conflictingResourceForeground": "#ff2000",
+        "gitDecoration.ignoredResourceForeground": "#222222a0",
     }
 }
