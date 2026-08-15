@@ -515,6 +515,7 @@
         "tab.unfocusedActiveBorderTop": "#00000000",
         "modernTab.activeBackground": "#0000001c",
         "modernTab.hoverBackground": "#0000000c",
+        "modernEditorTab.activeHoverBackground": "#0000001c",
         "editorWidget.resizeBorder": "#bbbbbb",
         "sideBar.border": "#aaaaaa",
         "sideBar.background": "#e4e4e4",
