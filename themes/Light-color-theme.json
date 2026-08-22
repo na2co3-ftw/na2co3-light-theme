@@ -544,6 +544,8 @@
         "list.inactiveSelectionBackground": "#0080ff20",
         "tree.tableColumnsBorder": "#bbbbbb",
         "toolbar.hoverBackground": "#00000014",
+        "button.secondaryBackground": "#d8d8d8",
+        "button.secondaryHoverBackground": "#c0c0c0",
         "settings.textInputBorder": "#cecece",
         "settings.numberInputBorder": "#cecece",
         "gitDecoration.addedResourceForeground": "#208000",
