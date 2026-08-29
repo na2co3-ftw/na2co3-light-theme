@@ -555,5 +555,6 @@
         "gitDecoration.untrackedResourceForeground": "#208000",
         "gitDecoration.conflictingResourceForeground": "#ff2000",
         "gitDecoration.ignoredResourceForeground": "#22222290",
+        "agentsChatInput.border": "#cecece",
     }
 }
