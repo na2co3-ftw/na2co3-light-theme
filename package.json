@@ -5,7 +5,7 @@
     "categories": [
         "Themes"
     ],
-    "version": "0.6.2",
+    "version": "0.6.3",
     "publisher": "na2co3",
     "engines": {
         "vscode": "^1.139.0"
