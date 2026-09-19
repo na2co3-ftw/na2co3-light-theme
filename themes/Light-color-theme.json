@@ -532,6 +532,7 @@
         "modernActivityBarItem.hoverForeground": "#ffffff",
         "statusBarItem.remoteForeground": "#ffffff",
         "statusBarItem.remoteBackground": "#16825d",
+        "statusBar.inactiveBackground": "#1476b8",
         "titleBar.activeBackground": "#e4e4e4",
         "titleBar.inactiveBackground": "#e4e4e4",
         "titleBar.border": "#cccccc",
