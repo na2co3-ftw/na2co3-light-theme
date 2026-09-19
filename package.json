@@ -8,7 +8,7 @@
     "version": "0.6.2",
     "publisher": "na2co3",
     "engines": {
-        "vscode": "^1.136.0"
+        "vscode": "^1.139.0"
     },
     "contributes": {
         "themes": [
