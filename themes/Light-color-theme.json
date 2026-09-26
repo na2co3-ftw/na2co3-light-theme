@@ -499,6 +499,7 @@
         "editorGroup.border": "#aaaaaa",
         "editorGroup.emptyBackground": "#d0d0d0",
         "editorGroupHeader.tabsBackground": "#d0d0d0",
+        "editorGroupHeader.connectedTabsBackground": "#e4e4e4",
         "editorGroupHeader.tabsBorder": "#cccccc",
         "tab.border": "#cccccc",
         "tab.lastPinnedBorder": "#cccccc",
