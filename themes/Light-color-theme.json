@@ -515,7 +515,10 @@
         "tab.unfocusedActiveBorderTop": "#00000000",
         "modernTab.activeBackground": "#0000001c",
         "modernTab.hoverBackground": "#0000000c",
-        "modernEditorTab.activeHoverBackground": "#0000001c",
+        "modernEditorTab.activeBackground": "#f4f4f4",
+        "modernEditorTab.hoverBackground": "#e4e4e4",
+        "modernEditorTab.inactiveBackground": "#e4e4e4",
+        "modernEditorTab.activeHoverBackground": "#f4f4f4",
         "editorWidget.border": "#dddddd", // Bottom border of breadcrumbs
         "editorWidget.resizeBorder": "#bbbbbb",
         "editorSuggestWidget.border": "#cccccc",
