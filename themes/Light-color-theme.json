@@ -501,6 +501,7 @@
         "editorGroupHeader.tabsBackground": "#d0d0d0",
         "editorGroupHeader.connectedTabsBackground": "#e4e4e4",
         "editorGroupHeader.tabsBorder": "#cccccc",
+        "editorGroupHeader.border": "#cccccc",
         "tab.border": "#cccccc",
         "tab.lastPinnedBorder": "#cccccc",
         "tab.activeBackground": "#f4f4f4",
@@ -520,10 +521,7 @@
         "modernEditorTab.hoverBackground": "#e4e4e4",
         "modernEditorTab.inactiveBackground": "#e4e4e4",
         "modernEditorTab.activeHoverBackground": "#ffffff",
-        "editorWidget.border": "#dddddd", // Bottom border of breadcrumbs
         "editorWidget.resizeBorder": "#bbbbbb",
-        "editorSuggestWidget.border": "#cccccc",
-        "editorHoverWidget.border": "#cccccc",
         "sideBar.border": "#aaaaaa",
         "sideBar.background": "#e4e4e4",
         "sideBarActivityBarTop.border": "#00000000",
